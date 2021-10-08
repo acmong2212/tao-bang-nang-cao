@@ -1,0 +1,22 @@
+.header {
+    background: red;
+    color: white;
+
+}
+th {
+    border-right: 1px solid white !important;
+    border-bottom: 1px solid white !important;;
+}
+table {
+    width: 100%;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    padding: 20px;
+
+}
+.hidden {
+
+}
